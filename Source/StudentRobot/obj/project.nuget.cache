@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMscUsVd4obGqFyPq34ja2fq/qIy39CetD7nbHJITVSnKKon0bpcyIoq4MkpsG5S6gjNtI2i0TirVlu91B8Cwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peand\\Downloads\\AI-for-Computer-Games-main\\AI-for-Computer-Games-main\\Assignments\\P2 - Robocode\\Source\\StudentRobot\\StudentRobot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peand\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\peand\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
